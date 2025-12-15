@@ -50,7 +50,7 @@ metafile = true
 
 [[files]]
 file = "mods/bookshelf-lib.pw.toml"
-hash = "6cd235030774b3cfab54145cf616ab47b0afa57cacab75ede94c2682c9450ce9"
+hash = "bb3c95ec2011f508ad0f13eec389f5e1835ca14e452f76b7db2f76753a3acdaf"
 metafile = true
 
 [[files]]
@@ -155,7 +155,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-sound-of-steam.pw.toml"
-hash = "16a779fbdf47b154eb5ee30cc8ab41df3d3fe18308337824d66bd036c2c24014"
+hash = "a7a87fc6ea98d8fbaa426258990f2dec714699e98fb8a083f9a399c90d02844f"
 metafile = true
 
 [[files]]
@@ -176,6 +176,11 @@ metafile = true
 [[files]]
 file = "mods/default-options.pw.toml"
 hash = "bd005d9f92131c7c4a88a081aa5368c482eec2cb410d14ab245a2f081e9e1ffb"
+metafile = true
+
+[[files]]
+file = "mods/distanthorizons.pw.toml"
+hash = "da1e63f3b580bc76bd5ad71740f59845620db43c4d4394d9bf2dbcad9098786c"
 metafile = true
 
 [[files]]
@@ -200,7 +205,7 @@ metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "3443f52ef7c1f80ae1cedf459b23c38ac78dbe547cf2cc047e62d0cb2331c808"
+hash = "77d59ac7bb40c00032d68d45d777e8c1c0dc22596afe0c84572104a67dabb1d5"
 metafile = true
 
 [[files]]
@@ -285,7 +290,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "b2062526afe3f3c55ad508247fc25246f0b3087ac21890ff29fea2b521e289cd"
+hash = "80c0d9b10a22bfb81f7664043c67bef9b78f95a1c8ba62efae4335658a0c72e0"
 metafile = true
 
 [[files]]
@@ -315,7 +320,7 @@ metafile = true
 
 [[files]]
 file = "mods/oh-the-biomes-weve-gone.pw.toml"
-hash = "5fc6719951cbe80a528ac6de0296998decac6bb821198a39943edecbf6dd0867"
+hash = "292270753d8db67924aade4cb50897049e40380ff871f1708f315c413d0a4c4e"
 metafile = true
 
 [[files]]
@@ -360,7 +365,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "82fa5e74cae0b3f0199f9822f62a976da2dc6ee03deb543d537ce55d36b11fcb"
+hash = "2f4fcbf501e394ea2d4270c319630ac034c83e54f6aee199f04e0ed391099a20"
 metafile = true
 
 [[files]]
@@ -375,12 +380,12 @@ metafile = true
 
 [[files]]
 file = "mods/sophisticated-backpacks.pw.toml"
-hash = "a2028f1fdc803760a29877b07b2958cecdc6402eb946f9d5a0fff9fe72b8671d"
+hash = "afc8b791ae5751382ecb3715fef8a7a50059cc120c5ae556ed7967a97984a1dd"
 metafile = true
 
 [[files]]
 file = "mods/sophisticated-core.pw.toml"
-hash = "8ed3c58f23d9255343a590b90e1216ac58142b920c9bffdd14c7fdc32e3ee002"
+hash = "0acde4349cc71e66e906b0ea0cb60c8c7ef0caa2f9f6e548a1ae9127cb3b102a"
 metafile = true
 
 [[files]]
@@ -390,7 +395,7 @@ metafile = true
 
 [[files]]
 file = "mods/sophisticated-storage.pw.toml"
-hash = "cba519b3e00eb2e03b3532664d1d99de5a0dd306c6ce4b49dcd462a58d4c187b"
+hash = "007d2d5934cd538ab80fcbb70f2737dd14e9f4057f3424fa14e41a761ef6b7f7"
 metafile = true
 
 [[files]]
@@ -400,7 +405,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "2e4c8891ec22ca246b414728493ff52fe177bc9c4369ed23a5a80e8332e79c67"
+hash = "70fab1377063ea642ca352ebf364dde768ab65223308605b63b2aa63519515eb"
 metafile = true
 
 [[files]]
@@ -425,7 +430,7 @@ metafile = true
 
 [[files]]
 file = "mods/yacl.pw.toml"
-hash = "64eaf7478e42d5143f4feeee87c56f779f4c3523f9fb06d8342484d36aa4442b"
+hash = "9a89a97f142873b9ab62d2c7c807ac22e6f16c828282052b416a6f3f7f785a48"
 metafile = true
 
 [[files]]

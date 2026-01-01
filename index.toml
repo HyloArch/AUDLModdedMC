@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "de8e4152a618121d8c778c04d513ca53cc0489ca3e013984f3724d6cde6dcb5a"
+hash = "2eb7f7115f7b0529db3abf40d9d03c69a2a0b27ee17a511f6992848821ee6338"
 
 [[files]]
 file = "config/defaultoptions/keybindings.txt"
@@ -111,6 +111,11 @@ metafile = true
 [[files]]
 file = "mods/corpse.pw.toml"
 hash = "8e671fbd3a5460a61073cced391ec08efc6b67d765e49015eea45a1f1db159a0"
+metafile = true
+
+[[files]]
+file = "mods/create-bits-n-bobs.pw.toml"
+hash = "a9b46525d07376bbb17d8d1931a79aee0d11d8f1274c098a70932abc62a0a312"
 metafile = true
 
 [[files]]
@@ -249,6 +254,11 @@ hash = "0004feab868f7b873c12db05aae0d0dac6c87b497490b48bb66480e7c8d0f340"
 metafile = true
 
 [[files]]
+file = "mods/ichunutil.pw.toml"
+hash = "4dcfc94168c8681f207b0124d574a970472601cd1b5e9b215a37265c753b7b47"
+metafile = true
+
+[[files]]
 file = "mods/jade-addons-forge.pw.toml"
 hash = "8cd8400cb4e2c5ba60c8a359a7b6ff501078d2056eab0aba7f6b0ac77b7a0694"
 metafile = true
@@ -286,6 +296,11 @@ metafile = true
 [[files]]
 file = "mods/mouse-tweaks.pw.toml"
 hash = "6bc414cc0f2d4c078fe83f384d786343f701f371d657c5279b5b0df1595804bd"
+metafile = true
+
+[[files]]
+file = "mods/multiplayer-server-pause.pw.toml"
+hash = "5e8b5faf6de08b02b7129c80af61b59d6d7f34e1cae21a9b77d7093c77d95b85"
 metafile = true
 
 [[files]]

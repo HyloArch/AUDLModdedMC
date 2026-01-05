@@ -2,11 +2,12 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "2eb7f7115f7b0529db3abf40d9d03c69a2a0b27ee17a511f6992848821ee6338"
+hash = "118981acd0d5ade7917691b454f8a6f490d862cfd091be7c7fed6bc80c6f3c34"
 
 [[files]]
 file = "config/defaultoptions/keybindings.txt"
 hash = "8cf01f6d1f171b3538c911f9988f9a6e0fe3356aa50ff52f11057c7d8f7e7955"
+preserve = true
 
 [[files]]
 file = "mods/amendments.pw.toml"

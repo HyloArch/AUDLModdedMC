@@ -2,11 +2,6 @@ name = "Iris & Oculus Flywheel Compat"
 filename = "iris-flywheel-compat-NeoForge-2.0.5.jar"
 side = "client"
 
-[option]
-optional = true
-default = false
-description = "Improves the render performance when using Iris Shaders. Do not use if not using Iris."
-
 [download]
 url = "https://cdn.modrinth.com/data/ndHYMY2K/versions/NECRBjgN/iris-flywheel-compat-NeoForge-2.0.5.jar"
 hash-format = "sha512"

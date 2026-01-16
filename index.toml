@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "7f9baf3a9a59ed4ab315ad0fc859701641105d280420e933ffc19db789a0bb6a"
+hash = "9e48e61daaee62d9b42fd7d22c21d4c9f6932fbfaee62416bede192b15e55100"
 
 [[files]]
 file = "config/defaultoptions/keybindings.txt"
@@ -172,6 +172,11 @@ metafile = true
 [[files]]
 file = "mods/create.pw.toml"
 hash = "9da22561c3a5e45beb91121518a49f2e8a62bedb332574ce43a9d9b287ebc705"
+metafile = true
+
+[[files]]
+file = "mods/create_factory_logistics.pw.toml"
+hash = "d0787f9db4af92152f43c40244becf04180b162b0d10e6263221cf18922e3f6d"
 metafile = true
 
 [[files]]

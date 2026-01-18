@@ -5,7 +5,7 @@ side = "client"
 [option]
 optional = true
 default = true
-description = "Allows better compatibility between Create and Iris. Should not be used if Iris isn't installed."
+description = "Allows better compatibility between Create and Iris Shaders. Should not be used if Iris isn't installed."
 
 [download]
 url = "https://cdn.modrinth.com/data/ndHYMY2K/versions/NECRBjgN/iris-flywheel-compat-NeoForge-2.0.5.jar"

@@ -256,7 +256,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris-flw-compat.pw.toml"
-hash = "f1bc23f7360439ae48b7b077916fa51756344816f55108ded5c90f528b320172"
+hash = "9dd90e9e80874a9f148be86a712bee40c96ea3fcb71d991f2f1f86740976d0fa"
 metafile = true
 
 [[files]]

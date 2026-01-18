@@ -186,7 +186,7 @@ metafile = true
 
 [[files]]
 file = "mods/distanthorizons.pw.toml"
-hash = "61ce79aeecd3101399a33bbea16444736f2988b363a63c9f3b6a2c4fb0b3828a"
+hash = "611c578745f649049988fcb24e20736589cdd7819ff9a5862b757d7a4dcc36ec"
 metafile = true
 
 [[files]]
@@ -256,12 +256,12 @@ metafile = true
 
 [[files]]
 file = "mods/iris-flw-compat.pw.toml"
-hash = "fa909ffdc98d095e359ae92828c3cdda74c5cd6eff78b412ae36f1fcd555df81"
+hash = "f1bc23f7360439ae48b7b077916fa51756344816f55108ded5c90f528b320172"
 metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "f67aa60c765593a8c70f78296a460349c6aef5f4a16d173eae02e8803b545ad4"
+hash = "eb1695fedb3e6da965911e3b67914b62b1a32de6a48e2b52b38aa4d0f8d90010"
 metafile = true
 
 [[files]]
@@ -381,7 +381,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "0281ed9713f3141bdac363056a791845510e14761ea65b4b2813cf96d664b20a"
+hash = "bda23705114cea9862ea9376d169c4810b2f8fefb06381535f77e42064530a4e"
 metafile = true
 
 [[files]]

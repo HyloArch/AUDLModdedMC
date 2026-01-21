@@ -410,6 +410,11 @@ hash = "db120825ff98ffa1a94fe66e28fd620e6ad4eae8d3ddda06b679c7d314fe49c9"
 metafile = true
 
 [[files]]
+file = "mods/squaremap.pw.toml"
+hash = "e13f7564c66d7cd8fcad6e7c973cec01c51298445385f65a995d2d469e08497d"
+metafile = true
+
+[[files]]
 file = "mods/supplementaries-squared.pw.toml"
 hash = "91ebbd7b58f32ec3cf848d203b70ef193675585d6b761de912afdd977ed5f84b"
 metafile = true

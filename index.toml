@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "7f1cbb01971cecfc92d94d9fb86940b051c71412de79bfb6ab4c704e0c60571a"
+hash = "3d78fc197cfc8ab5f1fe738704b0a717297ad4304e401e09537b2db13c7ebd1a"
 
 [[files]]
 file = "config/defaultoptions/keybindings.txt"
@@ -35,6 +35,11 @@ hash = "547660bb17452fae6e46504c87eea9e75eeb50de440495cadcee9ad49c6d131d"
 metafile = true
 
 [[files]]
+file = "mods/bellsandwhistles.pw.toml"
+hash = "e1f4a53e3e52b534add5dd018597fefd345d9bd6350b9c46ef0ec281fc62af8e"
+metafile = true
+
+[[files]]
 file = "mods/better-compatibility-checker.pw.toml"
 hash = "7c3b1f4819e8a3b88cadd8ed968d74491c71f504738dd0f2cd60f3ff40d80f72"
 metafile = true
@@ -56,7 +61,7 @@ metafile = true
 
 [[files]]
 file = "mods/brewin-and-chewin.pw.toml"
-hash = "ef7c9b68b65e7baab19dc84903f068de6714e6f306052940f53c747743d3025e"
+hash = "0236c16fae038f834245ad6c9b05f385f75db2e82630bdbf71a4b1a2e6def57d"
 metafile = true
 
 [[files]]
@@ -116,7 +121,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-bits-n-bobs.pw.toml"
-hash = "eabb64a1c0e4856505110756e56df6b80d3eb2e94c0a0fdbe54a1e493fb43bea"
+hash = "057eb73681389405fa203cd4b5d7d35dcb185f477e2b5298be086fb01dc49093"
 metafile = true
 
 [[files]]
@@ -236,7 +241,7 @@ metafile = true
 
 [[files]]
 file = "mods/ferrite-core.pw.toml"
-hash = "05d96d5b17399f048469ff4b44451eb8d99cc7a2a075ff55718c397cb508b0c2"
+hash = "73360e397134d238ee8fd21d33fd7f9275e9441f74f8f1b6ed92278877c0b9f1"
 metafile = true
 
 [[files]]
@@ -296,7 +301,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "69e8bbbb87309f89f3512f63f9336a8a1b416c529a3e2ccfe9bd90567e2f2b3a"
+hash = "427e48f685c2af70f0fda07648073379f3b343436b038c7289d98c56b55c322c"
 metafile = true
 
 [[files]]
@@ -396,7 +401,7 @@ metafile = true
 
 [[files]]
 file = "mods/sophisticated-core.pw.toml"
-hash = "95d3001c9cade2244d5472bee6a64a9de4e25801f19a978deeca7a52480f52c7"
+hash = "d0fe3bbd1aee2339a260394eb1ebd693a3134ad0b451357787e9cdc6180ab347"
 metafile = true
 
 [[files]]
@@ -406,7 +411,7 @@ metafile = true
 
 [[files]]
 file = "mods/sophisticated-storage.pw.toml"
-hash = "a20b1701cf95913cc576b5279fd2c2f16f32044acd47b78a9405046d28c5b768"
+hash = "90bece59b053f845509feea0e24ec42d4f0d5c026b59894d02c85bffa848f565"
 metafile = true
 
 [[files]]
@@ -421,7 +426,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "84a52ce6e4caafe5fb34246ff180f5c787a74faf0ff8f77e76d3e3258b96291c"
+hash = "0078215075483e7aec1d4b533b14e5f0afc474ef4e8b9047a516215312e1628e"
 metafile = true
 
 [[files]]

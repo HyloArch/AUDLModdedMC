@@ -1,13 +1,13 @@
 name = "Create: Improved Display Link Experience"
-filename = "createidlx-1.21.1-1.0.jar"
+filename = "createidlx-1.21.1-1.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/n0AbAYWj/versions/g0Ti4HKa/createidlx-1.21.1-1.0.jar"
+url = "https://cdn.modrinth.com/data/n0AbAYWj/versions/MiecGsTc/createidlx-1.21.1-1.1.jar"
 hash-format = "sha512"
-hash = "8183190ab72d50306b80d33731f2c81492e5ed9b0556ec880c921b77442125ba392c0a245c563643b1f94676db3d80f785934c4377bda8ec7b8e23d89b76c318"
+hash = "b1e84376851a93a4f7d1e758d97def52be08bbb8f70cb02ec395f24f3e6ed3ca8b5f344d2fe222bc816ffa55a236d99691f7cf5e723f672dd92c0da5e4eff2de"
 
 [update]
 [update.modrinth]
 mod-id = "n0AbAYWj"
-version = "g0Ti4HKa"
+version = "MiecGsTc"

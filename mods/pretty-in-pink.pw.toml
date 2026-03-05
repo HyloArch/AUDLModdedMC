@@ -1,13 +1,13 @@
 name = "Pretty In Pink"
-filename = "pretty_in_pink-1.0.3-1.21.1-neoforge.jar"
+filename = "pretty_in_pink-1.0.4-1.21.1.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "d6e167b60b1f9bc536c4b7e4fb21c0d2022144b1"
+hash = "e8e07b512fa00a4310ea21c260434d39eae312e3"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 6929182
+file-id = 7703738
 project-id = 1313661

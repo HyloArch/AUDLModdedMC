@@ -1,12 +1,12 @@
 name = "AUDL Modded MC"
 author = "HyloArch"
-version = "1.2.0"
+version = "1.2.1"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "5a69089bf40156e18e4f2b66dec298421cadadd71b1f3f124485f8a2d6fbdfa0"
+hash = "02d9d062ff7b7bd1cffa3ad1ad400291325026a278e93a40bbcbfa9a29e473b8"
 
 [versions]
 minecraft = "1.21.1"

@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "e64d8888a4b24adbe2d56b851ab5fdd88db641461dd6955145ffa9595d0f82de"
+hash = "acb5ba54dff82110ced137abe4178934485fcede65b7ac11db5114799e76faa2"
 
 [[files]]
 file = "config/defaultoptions/keybindings.txt"
@@ -122,6 +122,11 @@ metafile = true
 [[files]]
 file = "mods/create-bits-n-bobs.pw.toml"
 hash = "0f67083a39e4b9aa80b1830257086f16734091f9ecb24e64dd208c19be2c4923"
+metafile = true
+
+[[files]]
+file = "mods/create-bitterballen.pw.toml"
+hash = "458140f6cde00189438da7cbc36c373a0215166dc313813a48a7034bccb9bff0"
 metafile = true
 
 [[files]]
@@ -351,12 +356,12 @@ metafile = true
 
 [[files]]
 file = "mods/oh-the-trees-youll-grow.pw.toml"
-hash = "a50655001b949eb799fb0e4870da2ac1dc9f77511761038c8b6bce59171b8af9"
+hash = "1e479095c2d0453d8f8ec249b393d6d7350c3f51542177ae218db6819a6b6b48"
 metafile = true
 
 [[files]]
 file = "mods/particle-rain.pw.toml"
-hash = "438f930830cedabc8e10a6d008cb0a99ad9fe36bb776f426e212f60a68818fe8"
+hash = "9ab2df7457a28eb639e403fddae24c624d8c132547555bfa7d9adad57966fb5a"
 metafile = true
 
 [[files]]
@@ -411,12 +416,12 @@ metafile = true
 
 [[files]]
 file = "mods/sophisticated-backpacks.pw.toml"
-hash = "3477a21180608fd31e4699790711274d2f3b9b0c30376a8aa16d7de9aaf30833"
+hash = "3cc8a6b4f0caa73eb00a018bd15f2359b1d801cf46d25c7654135c38c73ce009"
 metafile = true
 
 [[files]]
 file = "mods/sophisticated-core.pw.toml"
-hash = "fe0b8a81e1545af94d40da2547efbc6a7bf323198994c1cfb7b84423d17428ab"
+hash = "81b72e93f7c7f2c5c80ee6b4a9d118a71c715054a79cba636412d789a77e7d1a"
 metafile = true
 
 [[files]]
@@ -426,7 +431,7 @@ metafile = true
 
 [[files]]
 file = "mods/sophisticated-storage.pw.toml"
-hash = "94d918097e4d76c4f6693e4675c0a386069773f862a22f9b302a075ff1063ebb"
+hash = "499e43d1d71100a437a4a79ee20ca20a61e06d49f3a8da79ea9318c381b1f657"
 metafile = true
 
 [[files]]

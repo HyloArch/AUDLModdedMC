@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "acb5ba54dff82110ced137abe4178934485fcede65b7ac11db5114799e76faa2"
+hash = "718ba1ee9dd170a9891a8206a603e75cd13eaee323f3b428e04c0df0708f82fa"
 
 [[files]]
 file = "config/defaultoptions/keybindings.txt"
@@ -111,7 +111,7 @@ metafile = true
 
 [[files]]
 file = "mods/corgilib.pw.toml"
-hash = "7cd10de618c7f46c1877d9d3e597699a7fcc02cf3982bba439ccbec95a37d0de"
+hash = "2b8c5286980b8d864085d02a6b2153cefa401a965833139ffac8e7661a322f7c"
 metafile = true
 
 [[files]]
@@ -151,12 +151,12 @@ metafile = true
 
 [[files]]
 file = "mods/create-food.pw.toml"
-hash = "454072507dc56ece74014ba744a5619f0ba135b44d89148caf28e8a909201ff8"
+hash = "342ad3c4d3a6f5b012e9409cea92ab96d8eca3610a54a3be269254ee40e9fc21"
 metafile = true
 
 [[files]]
 file = "mods/create-idlx.pw.toml"
-hash = "fe521c680ccd82e09d6241dd71b973cac8abe86721e163a662a5cae2ff6a8cc8"
+hash = "d12a8c82145ea5bfa9f16696ee6c8e33996bfcc7169b84b00ab47a110104c537"
 metafile = true
 
 [[files]]
@@ -176,7 +176,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-railways-navigator.pw.toml"
-hash = "ec69488edd55f31c6fc57cac9bab713a14394d1f63054cc4e2e5efc19a55abb9"
+hash = "f2a31a21fa9bb92922c52d245adc54e1b09ba0474e8b3f663c8c0bc8d48bb60c"
 metafile = true
 
 [[files]]
@@ -215,6 +215,11 @@ hash = "c7e3cfd32470d3e42baf3dc1dfcf9f17fb43df548d446ae32ec8a105d7604748"
 metafile = true
 
 [[files]]
+file = "mods/dragonlib.pw.toml"
+hash = "6be0888f4633c093f455d9e6d27aa68f0c8879cc2c12a8a4fc569eb22c451bfc"
+metafile = true
+
+[[files]]
 file = "mods/easy-magic.pw.toml"
 hash = "1aa75105514780685caab9b945db2a2ea7c0594ced8c01e12f2a3e331f1af4e6"
 metafile = true
@@ -246,7 +251,7 @@ metafile = true
 
 [[files]]
 file = "mods/farmers-delight.pw.toml"
-hash = "b75ba223cc0d159d38890b0c5db42e9454210f874dd0d0b9060f8277e803a5d8"
+hash = "a265ccd927708aed6943024431ed28612aaf16bedf279768486193d8a956e962"
 metafile = true
 
 [[files]]
@@ -296,7 +301,7 @@ metafile = true
 
 [[files]]
 file = "mods/jamlib.pw.toml"
-hash = "888492de9de2384ae9b0b427624be6b004bc5882176d2c71d05d948d06cdb826"
+hash = "af8428daaf08a29dec8f58f71bcd9e32bf564203754f71b184f6ebb8b09a0c77"
 metafile = true
 
 [[files]]
@@ -311,12 +316,12 @@ metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "e7544296d2cdd85e43a60cf3e7a8f3e036782e14abc4efeea7f064d980d59dd5"
+hash = "58e0bebd41fa44f3f0dd6c053ec3eb1529d4bfe0c054c0741ba6e2e1b8e4523e"
 metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "1965658333e46f8a375d3efee20cbfc49400d576f7051e81da832a70da79e3c0"
+hash = "f71a365ae1970ed6edff330b4f569222f74cc14c3ef98a85434258dee39da9a7"
 metafile = true
 
 [[files]]
@@ -351,7 +356,7 @@ metafile = true
 
 [[files]]
 file = "mods/oh-the-biomes-weve-gone.pw.toml"
-hash = "6ad737e36e7b52b0bff6440c41e7d40e528468dad5d260481b7ec082052dbc57"
+hash = "ea29f6a99cdfcd69b0062b0595b1b9e9856f55b70eb50453f2c452b66fe78cc0"
 metafile = true
 
 [[files]]
@@ -361,7 +366,7 @@ metafile = true
 
 [[files]]
 file = "mods/particle-rain.pw.toml"
-hash = "9ab2df7457a28eb639e403fddae24c624d8c132547555bfa7d9adad57966fb5a"
+hash = "f4305bc448164a6136566dd36747eeb7429ccfc06a2a6ec98a335877ddcff251"
 metafile = true
 
 [[files]]
@@ -416,12 +421,12 @@ metafile = true
 
 [[files]]
 file = "mods/sophisticated-backpacks.pw.toml"
-hash = "3cc8a6b4f0caa73eb00a018bd15f2359b1d801cf46d25c7654135c38c73ce009"
+hash = "b8ddcc63037e82526d05edcaa5a7d5e8a4f5299b7b98940a487484ffabbe663f"
 metafile = true
 
 [[files]]
 file = "mods/sophisticated-core.pw.toml"
-hash = "81b72e93f7c7f2c5c80ee6b4a9d118a71c715054a79cba636412d789a77e7d1a"
+hash = "bafe866eb40c643c722790d99e546ec5c105feecd9a3328fa491420af94fd1e7"
 metafile = true
 
 [[files]]
@@ -431,7 +436,7 @@ metafile = true
 
 [[files]]
 file = "mods/sophisticated-storage.pw.toml"
-hash = "499e43d1d71100a437a4a79ee20ca20a61e06d49f3a8da79ea9318c381b1f657"
+hash = "3f14f50297e873a50e226bf701c9d700b4bb1212bd144356585ea73613d3d6aa"
 metafile = true
 
 [[files]]
